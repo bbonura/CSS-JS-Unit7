@@ -1,0 +1,65 @@
+#title { 
+    /* TODO: Add the code to create the title of the web page */
+    text-align: center;
+    color:white;
+    background: salmon;
+    padding: 30px;
+    
+} 
+
+.division {
+    /* TODO: Finish the code below to align the web page's content into three columns */
+    padding: 10px;
+    float: left;
+
+}
+
+#division1 {
+    /* TODO: Finish the code below to design the first division of the content */
+    margin-bottom: 10px;
+    background-color:#aed8e6;
+    width: 18%;
+    text-align: center;
+
+}
+
+#division2 {
+    /* TODO: Finish the code below to design the second division of the content */
+    margin-bottom: 10px;
+    background-color: antiquewhite;
+    width: 60.75%;
+    text-align: center;
+    
+
+}
+
+#division3 {
+    /* TODO: Finish the code below to design the third division of the content */
+    margin-bottom: 10px;
+    background-color: #aed8e6;
+    width: 18%;
+    text-align: center;
+}
+
+h2 {
+    /* TODO: Add the code to set the text color of the h2 tags */
+    color: blue;
+}
+
+.paragraph {
+    /* TODO: Add the code to set the text color of the paragraphs */
+    color:mediumslateblue;
+}
+
+#footer {
+    /* TODO: Finish the code below to design web page's footer */
+    position: absolute;
+    top: 280px; 
+    left: 9px;
+    right: 9px;
+    
+    text-align: center;
+    color:white;
+    background: salmon;
+
+}
